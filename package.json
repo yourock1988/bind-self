@@ -1,8 +1,10 @@
 {
-  "name": "bind-self",
+  "name": "@yourock88/bind-self",
   "version": "0.0.1",
   "description": "automatic bind this to instance in class syntax methods",
-  "author": "yourock88",
+  "author": "YouROCK (https://github.com/yourock1988)",
+  "homepage": "https://github.com/yourock1988/bind-self",
+  "repository": "yourock1988/bind-self",
   "license": "MIT",
   "main": "./src/main.js",
   "keywords": [
