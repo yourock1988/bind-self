@@ -1,0 +1,15 @@
+{
+  "name": "bind-self",
+  "version": "0.0.1",
+  "description": "automatic bind this to instance in class syntax methods",
+  "author": "yourock88",
+  "license": "MIT",
+  "main": "./src/main.js",
+  "keywords": [
+    "bind",
+    "this",
+    "class",
+    "method",
+    "instance"
+  ]
+}
