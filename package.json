@@ -1,6 +1,6 @@
 {
   "name": "@yourock88/bind-self",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "automatic bind this to instance in class syntax methods",
   "author": "YouROCK (https://github.com/yourock1988)",
   "homepage": "https://github.com/yourock1988/bind-self",

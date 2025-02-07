@@ -1,18 +1,25 @@
 Automatic bind all class methods to instance
 
 install
+
 ```bash
-npm i bind-self
+npm i @yourock88/bind-self
 ```
+
 import
+
 ```javascript
 import bindSelf from 'bind-self'
 ```
+
 or
+
 ```javascript
-const bindSelf = require('bind-self').default
+const bindSelf = require('bind-self').default // only for nodejs >= v22
 ```
+
 example
+
 ```javascript
 class A {
   constructor() {
