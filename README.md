@@ -9,13 +9,13 @@ npm i @yourock88/bind-self
 import
 
 ```javascript
-import bindSelf from 'bind-self'
+import bindSelf from '@yourock88/bind-self'
 ```
 
 or
 
 ```javascript
-const bindSelf = require('bind-self').default // only for nodejs >= v22
+const bindSelf = require('@yourock88/bind-self').default // only for nodejs >= v22
 ```
 
 example
